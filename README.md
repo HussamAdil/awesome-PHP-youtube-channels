@@ -8,3 +8,6 @@ Awesome youtube channels list for php developers 🤩
 
 * Clever Techie
 https://www.youtube.com/c/CleverTechieTube/videos
+
+* Mateus Guimarães
+https://www.youtube.com/channel/UCZXli3tyGCYn-FghmNJB7vw
