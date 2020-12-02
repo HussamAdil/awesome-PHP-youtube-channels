@@ -6,7 +6,7 @@ Awesome youtube channels list for php developers 🤩
 </p>
 
 ***
-## Content
+## channels
 
 * Clever Techie\
 https://www.youtube.com/c/CleverTechieTube/videos
