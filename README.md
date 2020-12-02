@@ -1,5 +1,10 @@
 # Awesome-PHP-youtube-channels
 Awesome youtube channels list for php developers 🤩
+ 
+<img src ="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" width="150px">
 
+***
+## Content
 
-![alt text](https://github.com/sindresorhus/awesome/raw/main/media/logo.svg)
+* Clever Techie
+https://www.youtube.com/c/CleverTechieTube/videos
