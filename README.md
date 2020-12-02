@@ -19,16 +19,15 @@ https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA
 https://www.youtube.com/channel/UCxm5iUibD8h5XRd6t28nsTw
 * Freek Van der Herten
 https://www.youtube.com/channel/UCNlUCA4VORBx8X-h-rXvXEg
-* Matt Stauffer
+* Matt Stauffer \
 https://www.youtube.com/channel/UChByJR-sX8CooIAc5nkV7Mg
-* Bitfumes
+* Bitfumes \
 https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA
-* Amitav Roy
+* Amitav Roy \ 
 https://www.youtube.com/c/AmitavRoyDevZone/playlists
-* Coder's Tape
+* Coder's Tape \ 
 https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg
-* Andre Madarang
+* Andre Madarang \
 https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ
-* Codecourse
+* Codecourse \ 
 https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g
-* 
