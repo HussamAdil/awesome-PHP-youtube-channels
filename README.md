@@ -17,7 +17,7 @@ https://www.youtube.com/channel/UCZXli3tyGCYn-FghmNJB7vw
 https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA
 * Taylor Otwell 🥳 \
 https://www.youtube.com/channel/UCxm5iUibD8h5XRd6t28nsTw
-* Freek Van der Herten
+* Freek Van der Herten \
 https://www.youtube.com/channel/UCNlUCA4VORBx8X-h-rXvXEg
 * Matt Stauffer \
 https://www.youtube.com/channel/UChByJR-sX8CooIAc5nkV7Mg
