@@ -1,8 +1,9 @@
 # Awesome-PHP-youtube-channels
 Awesome youtube channels list for php developers 🤩
- 
-<img src ="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" width="150px">
+ <p align="center">
 
+<img src ="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg" width="250px">
+</p>
 ***
 ## Content
 
